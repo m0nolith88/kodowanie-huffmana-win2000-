@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716591947 source:c:\documents and settings\tomek bujak\my documents\c\huffman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
